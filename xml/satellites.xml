@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.5
-    File created on 2026-09-09T08:35:05
+    File created on 2026-09-10T08:34:58
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=196, satellites=208)
 -->
@@ -1434,7 +1434,7 @@
 		<transponder frequency="4024000" symbol_rate="4340000" polarization="2" fec_inner="4" system="1" modulation="1" />
 		<transponder frequency="4029000" symbol_rate="2300000" polarization="3" fec_inner="4" system="1" modulation="1" />
 		<transponder frequency="4033000" symbol_rate="1700000" polarization="2" fec_inner="3" system="1" modulation="1" />
-		<transponder frequency="4036000" symbol_rate="1830000" polarization="3" fec_inner="2" system="1" modulation="2" />
+		<transponder frequency="4036000" symbol_rate="1666000" polarization="3" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="4038000" symbol_rate="2358000" polarization="3" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="4063000" symbol_rate="33900000" polarization="2" fec_inner="2" system="1" modulation="1" is_id="1" t2mi_plp_id="1" />
 		<transponder frequency="4063000" symbol_rate="33900000" polarization="2" fec_inner="2" system="1" modulation="1" is_id="4" t2mi_plp_id="0" />
@@ -2425,7 +2425,7 @@
 		<transponder frequency="4132000" symbol_rate="1843000" polarization="1" fec_inner="4" system="1" modulation="1" />
 		<transponder frequency="4137000" symbol_rate="1603000" polarization="1" fec_inner="6" system="1" modulation="1" />
 		<transponder frequency="4140000" symbol_rate="1000000" polarization="1" fec_inner="4" system="1" modulation="2" />
-		<transponder frequency="4146000" symbol_rate="1190000" polarization="1" fec_inner="3" system="1" modulation="2" />
+		<transponder frequency="4143000" symbol_rate="2300000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="4148000" symbol_rate="2400000" polarization="1" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="4160000" symbol_rate="16325000" polarization="1" fec_inner="3" system="1" modulation="2" t2mi_plp_id="1" />
 		<transponder frequency="4180000" symbol_rate="16325000" polarization="1" fec_inner="3" system="1" modulation="2" t2mi_plp_id="1" />
